@@ -1,0 +1,3 @@
+interface WHO {
+  covidVaccinations(): void;
+}
